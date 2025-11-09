@@ -28,4 +28,4 @@ Upload your CSV files, ask questions in plain English, and receive immediate ans
 5. The application presents results and visualizations immediately.
 
 ---
-![App Demo](https://vimeo.com/1135128117?fl=ip&fe=ec)
+[![Watch the demo](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/demo-thumbnail.png)](https://vimeo.com/1135128117)
